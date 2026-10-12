@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "falconry",
+  "repo": "falcon-oauthlib",
+  "versions": [
+    {
+      "commit": "6e09a06bef271f33956ec187e1bf2f1f550dc424",
+      "parsed_at": "2026-10-12T01:30:58.179779+00:00",
+      "filetree": "filetree/6e09a06bef271f33956ec187e1bf2f1f550dc424.nq.gz",
+      "blobs": [
+        "blob/7fdbe17c6067880ad8c535c03ebc0c2d58d8c64f.nq.gz",
+        "blob/caa43cf41008a6d111daea0a6df494a1cdd80f28.nq.gz",
+        "blob/c4058a2393f2e7bef675e3cdd09e8526bfabf75b.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/6f429d13e475f7ce058303dbc42b3506c752041b.nq.gz",
+        "blob/8c588c327b8746975fc0c4bfdedf0b96b39519ec.nq.gz",
+        "blob/f7b6ebdab94483ed2bfa8f4b69e68a93133e21e3.nq.gz",
+        "blob/146f2ec5cfff1e635a6ce831c4a1225f71b67507.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
